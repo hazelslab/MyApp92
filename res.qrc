@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="settings">
+    <file>settings_filled_100px.png</file>
+    <file>settings_100px.png</file>
+  </qresource>
+</RCC>
